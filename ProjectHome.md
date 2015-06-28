@@ -1,0 +1,1 @@
+This is my first SAP PI 7.0 Adapter for HL7.
